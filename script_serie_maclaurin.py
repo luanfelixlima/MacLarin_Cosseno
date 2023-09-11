@@ -17,10 +17,6 @@ x = (ultimo+1)/10
 
 resultado, termos = maclaurin_cosseno(x, precisao_desejada)
 
-
-# O script calcula o valor real da diferença entre cos(x) e a aproximação 
-# obtida pelo polinômio:
-
 # Impressão dos resultados em tela:
 print("Numero de termos: ", termos)
 
